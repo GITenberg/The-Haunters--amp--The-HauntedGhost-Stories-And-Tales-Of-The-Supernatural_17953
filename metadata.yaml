@@ -1,0 +1,47 @@
+_repo: The-Haunters--amp--The-HauntedGhost-Stories-And-Tales-Of-The-Supernatural_17953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_issued: '2006-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcc 'PN'
+tableOfContents: 'The fall of the house of Usher -- The old nurse''s story -- The
+  superstitious Man''s story -- A story of Ravenna -- Teig O''Kane and the corpse
+  -- The haunted and the haunters: or the house and the brain -- The Botathen ghost
+  -- The ghost of Lord Clarenceux -- Dr Duthoit''s vision -- The seven lights -- The
+  spectral coach of Blackadon -- Drake''s drum -- The spectre bridegroom -- The pool
+  in the graveyard -- The Lianhan Shee -- The haunted cove -- Wandering Willie''s
+  tale -- Glamis castle -- Powys castle -- Croglin grange -- The ghost of Major Sydenham
+  -- The miraculous case of Jesch Claes -- The radiant boy of Corby castle -- Clerk
+  Saunders -- Dorothy Durant -- Pearlin Jean -- The Denton Hall ghost -- The Goodwood
+  ghost story -- Captain Wheatcroft -- The iron cage -- The ghost of Rosewarne --
+  The iron chest of Durley -- The strange case of M. Bezuel -- The Marquis de Rambouillet
+  -- The Altheim revenant -- Sertorius and his hind -- Erochtho -- Patroklos -- Vision
+  of Cromwell -- Lord Strafford''s warning -- Kotter''s red circle -- The vision of
+  Charles XI. of Sweden -- Ben Jonson''s prevision -- Queen Ulrica -- Denis Misanger
+  -- The pied piper -- Jeanne d''Arc -- Anne Walker -- The hand of glory -- The bloody
+  footstep -- The ghostly warriors of Worms -- The wandering Jew in England -- Bendith
+  Eu Mammau -- The red book of Appin -- The good O''Donoghue -- Sarah Polgrain --
+  Eleanor Cobham, Duchess of Gloucester.'
+title: 'The Haunters & The Haunted
+
+  Ghost Stories And Tales Of The Supernatural'
+url: http://www.gutenberg.org/ebooks/17953
